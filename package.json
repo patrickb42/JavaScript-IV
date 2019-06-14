@@ -1,0 +1,23 @@
+{
+  "name": "javascript-iv",
+  "version": "1.0.0",
+  "description": "This challenge focuses on classes in JavaScript using the new `class` keyword.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickb42/JavaScript-IV.git"
+  },
+  "author": "patrickb42",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/patrickb42/JavaScript-IV/issues"
+  },
+  "homepage": "https://github.com/patrickb42/JavaScript-IV#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-crockford": "^2.0.0"
+  }
+}
